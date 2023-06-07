@@ -1,16 +1,3 @@
-<!-- QUIZ WEB-APP PLAN;
-
-1. Define your project
-2. Design the architecture
-3. Set up your development environment
-4. Build the frontend
-5. Develop the backend
-6. Connect the frontend and backend
-7. Implement data storage
-8. Test and debug
-9. Deploy your application
-10. Continuously improve and maintain
-
 ## Step 1: Define your project
 
     A quiz web application allows users to answer questions and receive feedback on their performance. The application should have the following requirements:
@@ -165,22 +152,6 @@
             3. Access Control Lists (ACL):
             - If needed, implement fine-grained access control by defining specific permissions for different resources and actions.
             - For example, you can define permissions such as "manageQuizzes" or "editProfile" and assign them to specific roles or users.
-
-## Step 3: Set up your development environment
-
-## Step 4: Build the frontend
-
-## Step 5: Develop the backend
-
-## Step 6: Connect the frontend and backend
-
-## Step 7: Implement data storage
-
-## Step 8: Test and debug
-
-## Step 9: Deploy your application
-
-## Step 10: Continuously improve and maintain -->
 
 ## Project Setup:
 
