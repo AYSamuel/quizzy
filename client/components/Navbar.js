@@ -2,7 +2,7 @@ import React from 'react';
 
 function Navbar() {
   return (
-    <div className='flex justify-between items-center'>
+    <div className='flex justify-around md:justify-between pt-6 md:px-16 items-center'>
       <a
         href='#'
         className='tracking-widest text-2xl'>

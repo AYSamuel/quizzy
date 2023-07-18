@@ -19,7 +19,7 @@ export default function Home() {
         <div className='w-48 border border-red-700 text-black'>A box</div>
         <Homescreen />
       </main> */}
-      <main className='flex items-center justify-center min-h-screen bg-bgGrey'>
+      <main className='min-w-full min-h-screen bg-white'>
         <Homescreen />
       </main>
     </>
