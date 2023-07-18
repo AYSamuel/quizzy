@@ -5,7 +5,7 @@ import React from 'react';
 function Homescreen() {
   return (
     <>
-      <div className='max-w-screen-xl max-h-screen bg-white py-6 px-10 text-textGrey rounded-3xl shadow-navbarShadow'>
+      <div className='flex flex-col text-textGrey'>
         <Navbar />
         <Hero />
       </div>
