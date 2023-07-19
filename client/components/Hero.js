@@ -39,9 +39,7 @@ function Hero() {
     // </div>
     <div className='flex flex-col-reverse mt-5 mdl:flex-row items-center gap-2 mdl:gap-10 mx-5 mdl:mx-10'>
       <div className='px-5 py-8'>
-        <h2 className='font-bold text-primary sml:text-lg md:text-4xl'>
-          JavaScript Multiple-choice Quiz for Programmers!
-        </h2>
+        <h2 className='font-bold text-primary sml:text-lg md:text-4xl'>JavaScript Multiple-choice Quiz</h2>
         <p className='text-textDark text-sm sml:text-base mt-4 mb-10'>
           From fundamentals to advanced concepts, put your expertise to the test. Unlock new levels of JavaScript
           proficiency!
